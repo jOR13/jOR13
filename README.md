@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @jOR13
-- 👀 I’m Software development
-- 🌱 I’m Ruby and ruby on rails
-- 💞️ I’m looking to collaborate on fun projects
-
-<!---
-jOR13/jOR13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jesus Ochoa Rabelo.
+- 🏡 Im from Cd. Juarez Chihuahua, Mexico.
+- 👀 I’m interested in web development, software development, and learning new things.
+- 🌱 I’m currently learning Ruby on Rails.
+- 💞️ I’m looking to collaborate on fun projects and learn new things.
+- 📫 How to reach me: 
+- 📧 jesus.ochoa.rabelo@gmail.com
+- 📞 +52 656 676 3854
+- 🌐 https://jor13.github.io/
+- 📄 https://www.linkedin.com/in/jesus-ochoa-rabelo/
