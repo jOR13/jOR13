@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jor13&hide=Al,html,css,scss,sass,shell,pe,coffeescript,procfile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jor13&hide=Al,html,css,scss,sass,shell,pe,coffeescript,procfile&layout=compact)
 
 - 👋 Hi, I’m Jesus Ochoa Rabelo.
 - 🏡 Im from Cd. Juarez Chihuahua, Mexico.
