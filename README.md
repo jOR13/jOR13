@@ -7,5 +7,4 @@
 - 📫 How to reach me: 
 - 📧 jesus.ochoa.rabelo@gmail.com
 - 📞 +52 656 388 07 17
-- 🌐 https://jor13.github.io/
 - 📄 https://www.linkedin.com/in/jesus-ochoa-rabelo/
