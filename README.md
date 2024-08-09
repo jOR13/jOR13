@@ -3,10 +3,9 @@
 - 👋 Hi, I’m Jesus Ochoa Rabelo.
 - 🏡 Im from Cd. Juarez Chihuahua, Mexico.
 - 👀 I’m interested in web development, software development, and learning new things.
-- 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking to collaborate on fun projects and learn new things.
 - 📫 How to reach me: 
 - 📧 jesus.ochoa.rabelo@gmail.com
-- 📞 +52 656 676 3854
+- 📞 +52 656 388 07 17
 - 🌐 https://jor13.github.io/
 - 📄 https://www.linkedin.com/in/jesus-ochoa-rabelo/
